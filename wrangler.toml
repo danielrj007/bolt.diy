@@ -1,4 +1,4 @@
-name = "bolt-diy-bot"
-main = "src/index.js"  # ou o arquivo principal do seu Bolt.diy
+name = "bolt-diy"
+main = "build/server/index.js"
 compatibility_date = "2024-09-23"
-compatibility_flags = ["nodejs_compat"]  # Ativa suporte a módulos Node.js
+compatibility_flags = ["nodejs_compat"]
